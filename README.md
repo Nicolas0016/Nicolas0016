@@ -1,11 +1,21 @@
 <h1 align="center">
-<b>Hi, I'm Nicolás Argañaraz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hi, I'm Nicolás Argañaraz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
 
 I am an undergraduate Computer Science student at UBA. My main programming languages are Python, JavaScript, and Java. I’m passionate about learning and building new, productive, and creative projects.
+
+- **My interests include Web Design and Data Analysis**
+- 🌱 **I’m currently learning:**  
+  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> 
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+
+- 🤝 **I’m excited to collaborate on open-source projects**
 
 - **My interests include Web Design and Data Analysis**
 
