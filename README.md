@@ -25,7 +25,7 @@ I am an undergraduate Computer Science student at UBA. My main programming langu
   ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-* 👯 I’m excited to collaborate on open-source projects.
+* I’m excited to collaborate on open-source projects.
 * ✔ Feel free to ask me anything — I’m happy to help if I can!
 * ✨ Gaming ✨ Watching Anime ✨ Reading Light Novels ✨ Voleybol
   <br>
